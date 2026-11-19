@@ -1,8 +1,8 @@
 # STUDENT DETAILS
 
-**Name:** YAZHINI.E.M
+**Name:** Gudi Rama Krishna
 
-**Register Number:** 192511165
+**Register Number:** 192565028
 
 **Course Name:** Java Programming
 
